@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dasghost-01.github.io/remindme/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dasghost-01.github.io/remindme/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dasghost-01.github.io/remindme/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dasghost-01.github.io/remindme/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dasghost-01.github.io/remindme/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dasghost-01.github.io/remindme/ar/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://dasghost-01.github.io/remindme/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dasghost-01.github.io/remindme/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dasghost-01.github.io/remindme/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dasghost-01.github.io/remindme/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dasghost-01.github.io/remindme/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dasghost-01.github.io/remindme/ar/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://dasghost-01.github.io/remindme/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dasghost-01.github.io/remindme/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dasghost-01.github.io/remindme/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dasghost-01.github.io/remindme/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dasghost-01.github.io/remindme/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dasghost-01.github.io/remindme/ar/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://dasghost-01.github.io/remindme/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dasghost-01.github.io/remindme/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dasghost-01.github.io/remindme/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dasghost-01.github.io/remindme/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dasghost-01.github.io/remindme/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dasghost-01.github.io/remindme/ar/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://dasghost-01.github.io/remindme/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dasghost-01.github.io/remindme/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dasghost-01.github.io/remindme/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dasghost-01.github.io/remindme/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dasghost-01.github.io/remindme/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dasghost-01.github.io/remindme/ar/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+# RemindMe
+
+> RemindMe is a reminder app for iPhone and iPad. You type or say one sentence (for example "remind me to call mom tomorrow at 8 pm") and it creates a reminder with the right date, time and repeat. It works with Siri, can ring a real alarm, reminds you at places, and keeps everything on the device.
+
+## Key facts
+- Platforms: iPhone and iPad (App Store): https://apps.apple.com/app/id6818256531
+- Price: free to download; no ads; no account or sign-up
+- Languages understood: Turkish, English, French, German, Arabic (long sentences and several reminders at once)
+- Privacy: no account, no ads, no tracking; reminders stay on the device. Policy: https://dasghost-01.github.io/remindme-privacy/
+- Siri: say "Hey Siri, add a reminder with RemindMe"; Siri asks for the day and the time and saves it without opening the app. "Add a detailed reminder" and "Add a place reminder" also work.
+- Alarms: on iOS 26 and later a reminder can ring as a real alarm, even in silent mode or a Focus.
+- Place reminders: pin a place on the map and be reminded when arriving or leaving.
+- Also: daily plan, calendar, streaks, snooze, checklists, widgets, themes, Face ID app lock.
+- Contact: remindmeadmin@proton.me
+
+## Questions it answers
+- What is RemindMe? RemindMe is a reminder app for iPhone and iPad. You type or say one sentence and it creates a reminder with the right date, time and repeat.
+- Is RemindMe free? RemindMe is free to download and has no ads.
+- Do I need an account? No. There is no account and no sign-up. Your reminders stay on your device.
+- Does RemindMe work with Siri? Yes. Say “Hey Siri, add a reminder with RemindMe”. Siri asks for the day and the time and saves the reminder without opening the app. “Add a detailed reminder” and “Add a place reminder” work too.
+- Can a reminder ring like an alarm? On iOS 26 and later, yes. RemindMe can ring a real alarm that sounds even in silent mode or a Focus.
+- Which languages does it understand? Turkish, English, French, German and Arabic, including long sentences and several reminders in one go.
+- Is my data private? Yes. No account, no ads, no tracking, and your reminders stay on your device.
+
+## Pages
+- [English](https://dasghost-01.github.io/remindme/)
+- [Türkçe](https://dasghost-01.github.io/remindme/tr/)
+- [Deutsch](https://dasghost-01.github.io/remindme/de/)
+- [Français](https://dasghost-01.github.io/remindme/fr/)
+- [العربية](https://dasghost-01.github.io/remindme/ar/)
+- [Privacy policy](https://dasghost-01.github.io/remindme-privacy/)
